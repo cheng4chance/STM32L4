@@ -1,0 +1,3 @@
+21:44:10 **** Incremental Build of configuration Debug for project lab0 ****
+make -j8 all 
+make: Nothing to be done for 'all'.
